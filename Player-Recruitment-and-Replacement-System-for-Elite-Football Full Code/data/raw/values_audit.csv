@@ -1,0 +1,591 @@
+player,market_value_eur_m,tm_name,value_date,match_method
+S. Clucas,8.0,Sam Clucas,2018-01-01,short
+R. Loftus-Cheek,8.0,Ruben Loftus-Cheek,2018-01-01,short
+C. Eriksen,70.0,Christian Eriksen,2018-01-01,short
+A. Lennon,5.0,Aaron Lennon,2018-01-01,short
+J. Guðmunds­son,,,,none
+J. Livermore,9.0,Jake Livermore,2018-01-01,short
+A. Pritchard,10.0,Alex Pritchard,2018-03-22,short
+R. Pereyra,12.0,Roberto Pereyra,2018-01-01,short
+G. Wijnaldum,30.0,Georginio Wijnaldum,2018-01-01,short
+E. Can,28.0,Emre Can,2018-01-01,short
+G. Barry,1.0,Gareth Barry,2018-01-01,short
+David Silva,30.0,David Silva,2018-01-01,exact
+J. Milner,12.0,James Milner,2018-01-01,short
+Pedro Obiang,9.0,Pedro Obiang,2018-01-01,exact
+A. Surman,2.5,Andrew Surman,2018-01-01,short
+R. van La Parra,2.5,Rajiv van La Parra,2018-01-01,short
+C. Brunt,3.5,Chris Brunt,2018-01-01,short
+M. Lanzini,18.0,Manuel Lanzini,2018-01-01,short
+W. Zaha,25.0,Wilfried Zaha,2018-01-01,short
+M. James,1.5,Matty James,2018-01-01,short
+L. Fer,8.0,Leroy Fer,2018-01-01,short
+Roque Mesa,10.0,Roque Mesa,2018-01-01,exact
+F. Delph,10.0,Fabian Delph,2018-01-01,short
+A. Townsend,12.0,Andros Townsend,2018-01-01,short
+C. Yacob,4.0,Claudio Yacob,2018-01-01,short
+A. King,3.0,Andy King,2018-01-01,short
+B. N'Diaye,15.0,Badou Ndiaye,2018-02-04,short
+J. McClean,3.0,James McClean,2018-01-01,short
+M. Noble,7.0,Mark Noble,2018-01-01,short
+D. Tadić,15.0,Dušan Tadić,2018-01-01,short
+M. Diamé,5.0,Mohamed Diamé,2018-01-01,short
+J. McArthur,6.0,James McArthur,2018-01-01,short
+V. Moses,18.0,Victor Moses,2018-01-01,short
+S. Defour,7.0,Steven Defour,2018-01-01,short
+D. Pröpper,12.0,Davy Pröpper,2018-01-01,short
+İ. Gündoğan,30.0,İlkay Gündoğan,2018-01-01,short
+N. Matić,40.0,Nemanja Matic,2018-01-01,short
+D. Gray,15.0,Demarai Gray,2018-01-01,short
+Sung-Yeung Ki,7.0,Sung-yueng Ki,2018-01-01,fuzzy_92
+A. Carrillo,6.0,André Carrillo,2018-01-01,short
+S. Davis,6.0,Steven Davis,2018-01-01,short
+L. Milivojević,10.0,Luka Milivojevic,2018-01-01,short
+C. Atsu,,,,none
+A. Iwobi,10.0,Alex Iwobi,2018-01-01,short
+J. Hogg,2.0,Jonathan Hogg,2018-01-01,short
+X. Shaqiri,18.0,Xherdan Shaqiri,2018-01-01,short
+G. Xhaka,35.0,Granit Xhaka,2018-01-01,short
+A. Westwood,4.0,Ashley Westwood,2018-01-01,short
+J. Stanislas,4.5,Junior Stanislas,2018-01-01,short
+R. Fraser,5.0,Ryan Fraser,2018-01-01,short
+T. Carroll,7.0,Tom Carroll,2018-01-01,short
+J. Hendrick,8.0,Jeff Hendrick,2018-01-01,short
+W. Hughes,10.0,Will Hughes,2018-01-01,short
+N. Kanté,60.0,N'Golo Kanté,2018-01-01,short
+J. Murphy,7.0,Jacob Murphy,2018-01-01,short
+Ramadan Sobhi,6.0,Ramadan Sobhi,2018-01-01,exact
+C. Kouyaté,12.0,Cheikhou Kouyaté,2018-01-01,short
+Willian,32.0,Willian,2018-01-01,exact
+H. Mkhitaryan,35.0,Henrikh Mkhitaryan,2018-01-01,short
+Fernandinho,15.0,Fernandinho,2018-01-01,exact
+M. Dembélé,18.0,Mousa Dembélé,2018-01-01,short
+S. Boufal,15.0,Sofiane Boufal,2018-01-01,short
+Kenedy,7.0,Kenedy,2018-01-01,exact
+A. Mooy,9.0,Aaron Mooy,2018-01-01,short
+G. Krychowiak,20.0,Grzegorz Krychowiak,2018-01-01,short
+M. Lemina,15.0,Mario Lemina,2018-01-01,short
+T. Davies,15.0,Tom Davies,2018-01-01,short
+M. Ritchie,10.0,Matt Ritchie,2018-01-01,short
+S. Arfield,3.0,Scott Arfield,2018-01-01,short
+H. Arter,7.0,Harry Arter,2018-01-01,short
+M. Pugh,,,,none
+I. Gueye,18.0,Idrissa Gueye,2018-01-01,short
+E. Dier,40.0,Eric Dier,2018-01-01,short
+K. De Bruyne,110.0,Kevin De Bruyne,2018-01-01,short
+I. Hayden,7.0,Isaac Hayden,2018-01-01,short
+W. Ndidi,18.0,Wilfred Ndidi,2018-01-01,short
+A. Maitland-Niles,5.0,Ainsley Maitland-Niles,2018-01-01,short
+P. Groß,9.0,Pascal Groß,2018-01-01,short
+D. Alli,80.0,Dele Alli,2018-01-01,short
+E. Capoue,8.0,Étienne Capoue,2018-01-01,short
+M. Phillips,9.0,Matt Phillips,2018-01-01,short
+T. Ince,8.0,Tom Ince,2018-01-01,short
+M. Sissoko,20.0,Moussa Sissoko,2018-01-01,short
+M. Özil,50.0,Mesut Özil,2018-01-01,short
+Fàbregas,35.0,Cesc Fàbregas,2018-01-01,mononym
+João Mário,26.0,João Mário,2017-12-28,exact
+Ander Herrera,30.0,Ander Herrera,2018-01-01,exact
+A. Knockaert,8.0,Anthony Knockaert,2018-01-01,short
+R. Brady,10.0,Robbie Brady,2018-01-01,short
+L. Cook,6.0,Lewis Cook,2018-01-01,short
+Bernardo Silva,40.0,Bernardo Silva,2018-01-01,exact
+D. Williams,2.0,Danny Williams,2018-01-01,short
+S. March,3.5,Solly March,2018-01-01,short
+J. Ibe,8.0,Jordon Ibe,2018-01-01,short
+R. Mahrez,30.0,Riyad Mahrez,2018-01-01,short
+L. Sané,75.0,Leroy Sané,2018-01-01,short
+T. Bakayoko,40.0,Tiemoué Bakayoko,2018-01-01,short
+A. Doucouré,12.0,Abdoulaye Doucouré,2018-01-01,short
+A. Oxlade-Chamberlain,30.0,Alex Oxlade-Chamberlain,2018-01-01,short
+A. Ramsey,40.0,Aaron Ramsey,2018-01-01,short
+J. Wilshere,18.0,Jack Wilshere,2018-01-01,short
+Oriol Romeu,12.0,Oriol Romeu,2018-01-01,exact
+Juan Mata,30.0,Juan Mata,2018-01-01,exact
+J. Allen,18.0,Joe Allen,2018-01-01,short
+N. Dyer,2.5,Nathan Dyer,2018-01-01,short
+G. Sigurðsson,30.0,Gylfi Sigurdsson,2018-01-01,short
+T. Cleverley,9.0,Tom Cleverley,2018-01-01,short
+D. Fletcher,2.0,Darren Fletcher,2018-01-01,short
+J. Lingard,25.0,Jesse Lingard,2018-01-01,short
+P. Pogba,90.0,Paul Pogba,2018-01-01,short
+J. Henderson,25.0,Jordan Henderson,2018-01-01,short
+J. Shelvey,10.0,Jonjo Shelvey,2018-01-01,short
+Y. Cabaye,10.0,Yohan Cabaye,2018-01-01,short
+D. Gosling,3.0,Dan Gosling,2018-01-01,short
+Mikel Merino,10.0,Mikel Merino,2018-01-01,exact
+M. Albrighton,8.0,Marc Albrighton,2018-01-01,short
+Vicente Iborra,10.0,Vicente Iborra,2018-01-01,exact
+D. Stephens,6.0,Dale Stephens,2018-01-01,short
+N. Redmond,18.0,Nathan Redmond,2018-01-01,short
+J. Cork,9.0,Jack Cork,2018-01-01,short
+P. Højbjerg,8.0,Pierre-Emile Højbjerg,2018-01-01,short
+M. Schneiderlin,20.0,Morgan Schneiderlin,2018-01-01,short
+J. Ward-Prowse,15.0,James Ward-Prowse,2018-01-01,short
+S. N'Zonzi,30.0,Steven Nzonzi,2017-12-31,short
+Iñigo Córdoba,5.0,Iñigo Córdoba,2017-12-31,exact
+Carlos Soler,25.0,Carlos Soler,2017-12-31,exact
+D. Wass,10.0,Daniel Wass,2017-12-31,short
+Gabriel,4.0,Gabriel,2017-12-06,exact
+Fabián,10.0,Fabian Delph,2018-01-01,mononym
+L. Modrić,40.0,Luka Modrić,2017-12-31,short
+R. Soriano,12.0,Roberto Soriano,2017-12-31,short
+J. Correa,10.0,Joaquín Correa,2017-12-31,short
+Borja García,2.5,Borja García,2017-12-31,exact
+Eraso,2.0,Javi Eraso,2017-12-31,mononym
+Javi Fuego,1.0,Javi Fuego,2017-12-31,exact
+Javi Castellano,0.7,Javi Castellano,2017-12-31,exact
+Vicente Gómez,3.0,Vicente Gómez,2017-12-31,exact
+Vitolo,25.0,Vitolo,2017-12-31,exact
+P. Sisto,15.0,Pione Sisto,2017-12-31,short
+Jonathan Viera,8.0,Jonathan Viera,2017-12-31,exact
+Pablo Fornals,15.0,Pablo Fornals,2017-12-31,exact
+Rodri,20.0,Rodri,2017-12-31,exact
+F. Vázquez,12.0,Franco Vázquez,2017-12-31,short
+T. Kroos,80.0,Toni Kroos,2017-12-31,short
+Saúl,70.0,Saúl Ñíguez,2017-12-31,mononym
+Pedro Mosquera,2.0,Pedro Mosquera,2017-12-31,exact
+D. Cheryshev,3.0,Denis Cheryshev,2017-12-31,short
+Javi García,4.0,Javi García,2017-12-31,exact
+T. Inui,3.5,Takashi Inui,2017-12-31,short
+Jurado,2.5,José Manuel Jurado,2017-12-31,mononym
+A. Szymanowski,4.0,Alexander Szymanowski,2017-12-31,short
+G. Shibasaki,1.5,Gaku Shibasaki,2017-12-31,short
+Rubén Peña,1.0,Rubén Peña,2017-12-31,exact
+Burgui,1.5,Burgui,2017-12-31,exact
+M. Krohn-Dehli,1.5,Michael Krohn-Dehli,2017-12-31,short
+P. Hernández,2.0,Pablo Hernández,2018-02-26,short
+G. Pizarro,15.0,Guido Pizarro,2017-12-31,short
+Jozabed,3.5,Jozabed Sánchez,2017-12-31,mononym
+Andreas Pereira,7.5,Andreas Pereira,2017-12-31,exact
+N. Radoja,5.0,Nemanja Radoja,2017-12-31,short
+Tana,3.0,Tana,2017-12-31,exact
+R. Boudebouz,6.0,Ryad Boudebouz,2017-12-31,short
+Gumbau,0.8,Gerard Gumbau,2017-12-31,mononym
+D. Torres,1.5,Dani Torres,2017-12-31,short
+D. Brašanac,2.0,Darko Brasanac,2017-12-31,short
+Iván Alejo,1.5,Iván Alejo,2017-12-31,exact
+A. Januzaj,10.0,Adnan Januzaj,2017-12-31,short
+G. Kondogbia,25.0,Geoffrey Kondogbia,2017-12-31,short
+Samu Castillejo,7.0,Samu Castillejo,2017-12-31,exact
+A. Halilović,2.5,Alen Halilovic,2017-12-31,short
+Álex Granell,2.5,Álex Granell,2017-12-31,exact
+Omar Ramos,1.2,Omar Ramos,2017-12-31,exact
+Mikel Rico,1.5,Mikel Rico,2017-12-31,exact
+É. Banega,12.0,Éver Banega,2017-12-31,short
+Canales,4.0,Sergio Canales,2017-12-31,mononym
+Dani Parejo,18.0,Dani Parejo,2017-12-31,exact
+Portu,5.0,Portu,2017-12-31,exact
+Dani Raba,1.0,Dani Raba,2017-12-31,exact
+Granero,1.5,Esteban Granero,2017-12-31,mononym
+Mikel Oyarzabal,30.0,Mikel Oyarzabal,2017-12-31,exact
+Sergio Busquets,80.0,Sergio Busquets,2017-12-31,exact
+Iniesta,20.0,Andrés Iniesta,2017-12-31,mononym
+F. Fajr,,,,none
+A. Guardado,5.0,Andrés Guardado,2017-12-31,short
+San José,0.5,José Sand,2018-03-06,fuzzy_94
+Iturraspe,5.0,Ander Iturraspe,2017-12-31,mononym
+Marco Asensio,50.0,Marco Asensio,2017-12-31,exact
+Susaeta,7.5,Markel Susaeta,2017-12-31,mononym
+Ibai Gómez,3.0,Ibai Gómez,2017-12-31,exact
+Gabi,3.0,Gabi,2017-12-31,exact
+Koke,70.0,Koke,2017-12-31,exact
+Keko,2.5,Keko Gontán,2017-12-31,mononym
+Campaña,3.0,José Campaña,2017-12-31,mononym
+Jesús Navas,6.0,Jesús Navas,2017-12-31,exact
+I. Rakitić,45.0,Ivan Rakitic,2017-12-31,short
+Manu García,1.8,Manu García,2017-12-31,exact
+Dani García,5.0,Dani García,2017-12-31,exact
+Joan Jordán,3.5,Joan Jordán,2017-12-31,exact
+Alfonso Pedraza,3.5,Alfonso Pedraza,2017-12-31,exact
+Raúl García,9.0,Raúl García,2017-12-31,exact
+C. Doukouré,1.5,Cheick Doukouré,2017-12-31,short
+Víctor Camarasa,6.0,Víctor Camarasa,2017-12-31,exact
+Jason,5.0,Jason Puncheon,2018-01-01,mononym
+Timor,2.0,David Timor,2017-12-31,mononym
+Medrán,2.0,Álvaro Medrán,2017-12-31,mononym
+M. Wakaso,1.0,Mubarak Wakaso,2017-12-31,short
+Brais Méndez,0.5,Brais Méndez,2017-12-31,exact
+Trigueros,15.0,Manu Trigueros,2017-12-31,mononym
+F. Valverde,3.0,Federico Valverde,2017-12-31,short
+Isco,75.0,Isco,2017-12-31,exact
+Pere Pons,5.0,Pere Pons,2017-12-31,exact
+Recio,3.5,Recio,2017-12-31,exact
+Fede Cartabia,2.0,Fede Cartabia,2017-12-31,exact
+Joaquín,0.5,Joaquín,2017-12-31,exact
+Portillo,1.5,Francisco Portillo,2017-12-31,mononym
+Beñat,5.0,Beñat Etxebarria,2017-12-31,mononym
+Chory Castro,1.5,Chory Castro,2017-12-31,exact
+Tomás Pina,1.5,Tomás Pina,2017-12-31,exact
+Markel Bergara,1.8,Markel Bergara,2017-12-31,exact
+Illarramendi,15.0,Asier Illarramendi,2017-12-31,mononym
+Xabi Prieto,3.0,Xabi Prieto,2017-12-31,exact
+Zurutuza,3.0,David Zurutuza,2017-12-31,mononym
+Paulinho,40.0,Paulinho,2017-12-31,exact
+P. Diop,1.0,Pape Diop,2017-12-31,short
+Adrián,5.0,Adrián,2018-01-01,exact
+G. Escalante,2.5,Gonzalo Escalante,2017-12-31,short
+Guilherme,4.0,Guilherme,2017-12-22,exact
+Víctor Sánchez,4.0,Víctor Sánchez,2017-12-31,exact
+S. Lukić,1.0,Saša Lukić,2017-12-31,short
+S. Lobotka,7.5,Stanislav Lobotka,2017-12-31,short
+Sergi Darder,11.0,Sergi Darder,2017-12-31,exact
+M. Arambarri,2.5,Mauro Arambarri,2017-12-31,short
+J. Lerma,1.5,Jefferson Lerma,2017-12-31,short
+F. Orellana,2.0,Fabián Orellana,2017-12-31,short
+M. Iturra,1.2,Manuel Iturra,2018-01-04,short
+M. Kovačić,25.0,Mateo Kovacic,2017-12-31,short
+Casemiro,40.0,Casemiro,2017-12-31,exact
+C. Borges,5.0,Celso Borges,2017-12-31,short
+E. Bardhi,5.0,Enis Bardhi,2017-12-31,short
+José Luis Morales,2.5,José Luis Morales,2017-12-31,exact
+N. El Zhar,2.0,Nabil El Zhar,2017-12-31,short
+Zubeldía,2.0,Igor Zubeldia,2017-12-31,mononym
+E. Çolak,4.0,Emre Çolak,2017-12-31,short
+C. Sánchez,2.5,Carlos Sánchez,2017-12-28,short
+M. Lacen,0.8,Mehdi Lacen,2017-12-31,short
+Rubén Pérez,5.0,Rubén Pérez,2017-12-31,exact
+Pedro León,2.5,Pedro León,2017-12-31,exact
+Pablo Sarabia,18.0,Pablo Sarabia,2017-12-31,exact
+A. Aquilani,0.8,Alberto Aquilani,2017-12-31,short
+Thomas,0.3,Thomás,2017-12-06,exact
+S. Ascacíbar,10.0,Santiago Ascacíbar,2017-12-27,short
+Caiuby,3.0,Caiuby,2017-12-27,exact
+M. Eggestein,4.0,Maximilian Eggestein,2017-12-27,short
+M. Sabitzer,18.0,Marcel Sabitzer,2017-12-27,short
+G. Fernandes,1.5,Gelson Fernandes,2017-12-27,short
+K. Demirbay,12.0,Kerem Demirbay,2017-12-27,short
+J. Hofmann,3.0,Jonas Hofmann,2017-12-27,short
+A. Harit,15.0,Amine Harit,2017-12-27,short
+K. Laimer,7.0,Konrad Laimer,2017-12-27,short
+C. Tolisso,40.0,Corentin Tolisso,2017-12-27,short
+W. McKennie,4.5,Weston McKennie,2017-12-27,short
+L. Öztunali,6.5,Levin Öztunali,2017-12-27,short
+P. Bargfrede,1.5,Philipp Bargfrede,2017-12-27,short
+Z. Junuzović,5.5,Zlatko Junuzovic,2017-12-27,short
+C. Pulisic,45.0,Christian Pulisic,2017-12-27,short
+A. Hunt,1.5,Aaron Hunt,2017-12-27,short
+F. Ribéry,5.0,Franck Ribéry,2017-12-27,short
+A. Robben,9.0,Arjen Robben,2017-12-27,short
+F. Grillitsch,4.5,Florian Grillitsch,2017-12-27,short
+A. Ekdal,3.0,Albin Ekdal,2017-12-27,short
+C. Gentner,2.0,Christian Gentner,2017-12-27,short
+G. Castro,,,,none
+T. Ito,1.0,Tatsuya Ito,2017-12-27,short
+R. Khedira,2.5,Rani Khedira,2017-12-27,short
+L. Bender,11.0,Lars Bender,2017-12-27,short
+K. Bellarabi,14.0,Karim Bellarabi,2017-12-27,short
+J. Rodríguez,50.0,James Rodríguez,2017-12-27,short
+M. Bakalorz,2.5,Marvin Bakalorz,2017-12-27,short
+M. Götze,20.0,Mario Götze,2017-12-27,short
+S. Kagawa,13.0,Shinji Kagawa,2017-12-27,short
+C. Kramer,14.0,Christoph Kramer,2017-12-27,short
+M. Höger,2.5,Marco Höger,2017-12-27,short
+L. Holtby,3.0,Lewis Holtby,2017-12-27,short
+D. Zakaria,16.0,Denis Zakaria,2017-12-27,short
+N. Schulz,3.0,Nico Schulz,2017-12-27,short
+S. Özcan,2.5,Salih Özcan,2017-12-27,short
+P. Skjelbred,,,,none
+M. Hasebe,1.0,Makoto Hasebe,2017-12-27,short
+V. Darida,8.0,Vladimír Darida,2017-12-27,short
+M. Arnold,12.0,Maximilian Arnold,2017-12-27,short
+D. Caligiuri,5.0,Daniel Caligiuri,2017-12-27,short
+J. Schmid,2.5,Jonathan Schmid,2017-12-27,short
+J. Schuster,0.5,Julian Schuster,2017-12-27,short
+H. Nordtveit,5.0,Håvard Nordtveit,2017-12-27,short
+P. Herrmann,5.0,Patrick Herrmann,2017-12-27,short
+T. Delaney,7.5,Thomas Delaney,2017-12-27,short
+M. Jojić,2.5,Milos Jojic,2017-12-27,short
+M. Cuisance,3.5,Michaël Cuisance,2017-12-27,short
+D. Didavi,7.0,Daniel Didavi,2017-12-27,short
+M. Frantz,2.0,Mike Frantz,2017-12-27,short
+F. Kostić,8.0,Filip Kostić,2017-12-27,short
+M. Gaćinović,5.0,Mijat Gacinovic,2017-12-27,short
+S. Zuber,6.0,Steven Zuber,2017-12-27,short
+J. Baumgartlinger,3.5,Julian Baumgartlinger,2017-12-27,short
+Y. Mallı,12.0,Yunus Mallı,2017-12-27,short
+M. Risse,3.0,Marcel Risse,2017-12-27,short
+M. Lehmann,0.75,Matthias Lehmann,2017-12-27,short
+P. Schwegler,,,,none
+Y. Konoplyanka,12.5,Yevgen Konoplyanka,2017-12-27,short
+M. Weiser,12.0,Mitchell Weiser,2017-12-27,short
+N. Keïta,50.0,Naby Keïta,2017-12-27,short
+L. Bittencourt,6.0,Leonardo Bittencourt,2017-12-27,short
+D. Geiger,5.0,Dennis Geiger,2017-12-27,short
+N. Höfler,3.5,Nicolas Höfler,2017-12-27,short
+F. Klaus,2.5,Felix Klaus,2017-12-27,short
+J. Haberer,5.0,Janik Haberer,2017-12-27,short
+J. Brandt,30.0,Julian Brandt,2017-12-27,short
+V. Koziello,7.5,Vincent Koziello,2018-04-03,short
+I. Fossum,1.0,Iver Fossum,2017-12-27,short
+M. Meyer,16.0,Max Meyer,2017-12-27,short
+L. Goretzka,40.0,Leon Goretzka,2017-12-27,short
+N. Şahin,5.0,Nuri Şahin,2017-12-27,short
+S. Gnabry,15.0,Serge Gnabry,2017-12-27,short
+J. Guilavogui,8.0,Josuha Guilavogui,2017-12-27,short
+Thiago Alcântara,50.0,Thiago Alcántara,2017-12-27,exact
+M. Heller,1.25,Marcel Heller,2017-12-27,short
+Javi Martínez,32.0,Javi Martínez,2017-12-27,exact
+Walace,9.0,Wallace,2017-12-28,fuzzy_92
+N. Bentaleb,18.0,Nabil Bentaleb,2017-12-27,short
+B. Stambouli,7.0,Benjamin Stambouli,2017-12-27,short
+D. Baier,1.5,Daniel Baier,2017-12-27,short
+J. Weigl,30.0,Julian Weigl,2017-12-27,short
+M. Wolf,3.0,Marius Wolf,2017-12-27,short
+Ja-Cheol Koo,3.5,Ja-cheol Koo,2017-12-27,exact
+N. Amiri,15.0,Nadiem Amiri,2017-12-27,short
+S. Rudy,15.0,Sebastian Rudy,2017-12-27,short
+J. de Guzmán,1.75,Jonathan de Guzmán,2017-12-27,short
+C. Aránguiz,10.0,Charles Aránguiz,2017-12-27,short
+Camacho,1.0,Camacho,2017-12-06,exact
+S. Ilsanker,5.5,Stefan Ilsanker,2017-12-27,short
+S. Serdar,3.0,Suat Serdar,2017-12-27,short
+F. Kainz,3.0,Florian Kainz,2017-12-27,short
+D. Kohr,4.5,Dominik Kohr,2017-12-27,short
+D. Demme,9.0,Diego Demme,2017-12-27,short
+L. Rupp,4.5,Lukas Rupp,2017-12-27,short
+B. Özcan,2.5,Berkay Özcan,2017-12-27,short
+J. Gbamin,8.0,Jean-Philippe Gbamin,2017-12-27,short
+G. Holtmann,1.5,Gerrit Holtmann,2017-12-27,short
+F. Bartels,3.0,Fin Bartels,2017-12-27,short
+E. Thommy,0.75,Erik Thommy,2017-12-27,short
+K. Kampl,18.0,Kevin Kampl,2017-12-27,short
+V. Lazaro,5.0,Valentino Lazaro,2017-12-27,short
+J. Brekalo,3.5,Josip Brekalo,2017-12-27,short
+R. Quaison,2.0,Robin Quaison,2017-12-27,short
+A. Maxim,2.5,Alexandru Maxim,2017-12-27,short
+D. Latza,5.0,Danny Latza,2017-12-27,short
+K. Boateng,5.0,Kevin-Prince Boateng,2017-12-27,short
+E. Forsberg,25.0,Emil Forsberg,2017-12-27,short
+K. Havertz,18.0,Kai Havertz,2017-12-27,short
+A. Maier,2.5,Arne Maier,2017-12-27,short
+M. Dahoud,15.0,Mahmoud Dahoud,2017-12-27,short
+A. Vidal,35.0,Arturo Vidal,2017-12-27,short
+R. Gagliardini,20.0,Roberto Gagliardini,2017-12-28,short
+A. Florenzi,25.0,Alessandro Florenzi,2017-12-28,short
+J. Obi,2.5,Joel Obi,2017-12-28,short
+A. Poli,4.0,Andrea Poli,2017-12-28,short
+Gerson,10.0,Gerson,2017-12-28,exact
+F. Depaoli,1.5,Fabio Depaoli,2017-12-28,short
+A. Candreva,20.0,Antonio Candreva,2017-12-28,short
+S. Lulić,7.0,Senad Lulic,2017-12-28,short
+Sandro,1.8,Sandro,2018-02-11,exact
+K. Asamoah,12.5,Kwadwo Asamoah,2017-12-28,short
+K. Strootman,25.0,Kevin Strootman,2017-12-28,short
+E. Pulgar,4.5,Erick Pulgar,2017-12-28,short
+N. Viola,1.3,Nicolas Viola,2017-12-28,short
+P. Hetemaj,4.2,Perparim Hetemaj,2017-12-28,short
+F. Đuričić,,,,none
+L. Rigoni,1.5,Luca Rigoni,2017-12-28,short
+G. Ramírez,9.5,Gastón Ramírez,2017-12-28,short
+J. Jankto,15.0,Jakub Jankto,2017-12-28,short
+A. Bertolacci,7.5,Andrea Bertolacci,2017-12-28,short
+J. Cuadrado,28.0,Juan Cuadrado,2017-12-28,short
+L. Castro,7.5,Lucas Castro,2017-12-28,short
+S. Bastien,2.5,Samuel Bastien,2017-12-28,short
+B. Zuculini,1.7,Bruno Zuculini,2017-12-28,short
+S. Sensi,4.0,Stefano Sensi,2017-12-28,short
+A. Acquah,2.5,Afriyie Acquah,2017-12-28,short
+A. Barberis,2.0,Andrea Barberis,2017-12-28,short
+M. Brozović,19.0,Marcelo Brozović,2017-12-28,short
+É. Barreto,1.5,Édgar Barreto,2017-12-28,short
+L. Mora,0.8,Luca Mora,2017-12-28,short
+G. Donsah,8.0,Godfred Donsah,2017-12-28,short
+G. Bonaventura,22.0,Giacomo Bonaventura,2017-12-28,short
+L. Cigarini,1.8,Luca Cigarini,2017-12-28,short
+R. Nainggolan,45.0,Radja Nainggolan,2017-12-28,short
+P. Schiattarella,1.6,Pasquale Schiattarella,2017-12-28,short
+F. Kessié,20.0,Franck Kessié,2017-12-28,short
+Rômulo,2.5,Rômulo,2017-12-06,exact
+V. Behrami,1.5,Valon Behrami,2017-12-28,short
+R. Montolivo,3.0,Riccardo Montolivo,2017-12-28,short
+I. Perišić,45.0,Ivan Perišić,2017-12-28,short
+D. Cataldi,5.0,Danilo Cataldi,2017-12-28,short
+R. Saponara,9.0,Riccardo Saponara,2017-12-28,short
+D. Lazović,2.0,Darko Lazović,2017-12-28,short
+T. Rincón,8.0,Tomás Rincón,2017-12-28,short
+M. de Roon,12.0,Marten de Roon,2017-12-28,short
+L. Pellegrini,16.0,Lorenzo Pellegrini,2017-12-28,short
+N. Rigoni,1.2,Nicola Rigoni,2017-12-28,short
+B. Džemaili,3.0,Blerim Dzemaili,2017-12-04,short
+M. Hamšík,40.0,Marek Hamsik,2017-12-28,short
+Miguel Veloso,3.5,Miguel Veloso,2017-12-28,exact
+V. Birsa,4.5,Valter Birsa,2017-12-28,short
+M. Gonalons,8.5,Maxime Gonalons,2017-12-28,short
+Jorginho,28.0,Jorginho,2017-12-28,exact
+R. Freuler,10.0,Remo Freuler,2017-12-28,short
+B. Matuidi,30.0,Blaise Matuidi,2017-12-28,short
+L. Biglia,,,,none
+M. Parolo,6.0,Marco Parolo,2017-12-28,short
+D. Praet,14.0,Dennis Praet,2017-12-28,short
+Douglas Costa,35.0,Douglas Costa,2017-12-28,exact
+A. Taarabt,2.0,Adel Taarabt,2017-12-28,short
+M. Fossati,2.0,Marco Fossati,2017-12-28,short
+M. Lazzari,,,,none
+A. Ioniţă,3.5,Artur Ioniță,2017-12-28,short
+R. de Paul,6.0,Rodrigo De Paul,2017-12-28,short
+K. Linetty,12.0,Karol Linetty,2017-12-28,short
+J. Veretout,12.0,Jordan Veretout,2017-12-28,short
+A. Barák,8.5,Antonín Barák,2017-12-28,short
+D. Baselli,7.0,Daniele Baselli,2017-12-28,short
+I. Radovanović,3.5,Ivan Radovanovic,2017-12-28,short
+J. Kurtič,6.0,Jasmin Kurtic,2017-12-28,short
+H. Çalhanoğlu,17.5,Hakan Çalhanoğlu,2017-12-28,short
+Guilherme,4.0,Guilherme,2017-12-22,exact
+R. Chibsah,1.6,Raman Chibsah,2017-12-28,short
+P. Faragò,3.5,Paolo Faragò,2017-12-28,short
+S. Khedira,28.0,Sami Khedira,2017-12-28,short
+Rafinha,15.0,Rafinha,2017-12-31,exact
+A. Grassi,3.5,Alberto Grassi,2017-12-28,short
+F. Chiesa,35.0,Federico Chiesa,2017-12-28,short
+S. Fofana,10.0,Seko Fofana,2017-12-28,short
+B. Dabo,4.0,Bryan Dabo,2018-01-23,short
+Luis Alberto,15.0,Luis Alberto,2017-12-28,exact
+João Pedro,6.0,João Pedro,2017-12-28,exact
+L. Mazzitelli,,,,none
+Borja Valero,7.5,Borja Valero,2017-12-28,exact
+N. Barella,15.0,Nicolò Barella,2017-12-28,short
+D. Laxalt,9.5,Diego Laxalt,2017-12-28,short
+P. Zieliński,25.0,Piotr Zieliński,2017-12-28,short
+A. Marušić,0.03,Aleksa Marusic,2018-03-30,short
+M. Büchel,1.2,Marcel Büchel,2017-12-28,short
+M. Vecino,23.0,Matías Vecino,2017-12-28,short
+A. Balić,2.5,Andrija Balic,2017-12-28,short
+S. Milinković-Savić,,,,none
+F. Magnanelli,1.0,Francesco Magnanelli,2017-12-28,short
+S. Missiroli,3.0,Simone Missiroli,2017-12-28,short
+R. Mandragora,4.0,Rolando Mandragora,2017-12-28,short
+L. Spinazzola,12.0,Leonardo Spinazzola,2017-12-28,short
+L. Torreira,25.0,Lucas Torreira,2017-12-28,short
+Allan,20.0,Allan,2017-12-28,exact
+M. Badelj,13.0,Milan Badelj,2017-12-28,short
+Lucas Leiva,7.5,Lucas Leiva,2017-12-28,exact
+L. Memushaj,1.0,Ledian Memushaj,2017-12-28,short
+Felipe Anderson,25.0,Felipe Anderson,2017-12-28,exact
+M. Benassi,0.07,Maikol Benassi,2017-12-18,short
+Daniel Bessa,3.5,Daniel Bessa,2017-12-28,exact
+A. Duncan,9.0,Alfred Duncan,2017-12-28,short
+B. Cristante,15.0,Bryan Cristante,2017-12-28,short
+M. Valoti,1.0,Mattia Valoti,2017-12-28,short
+O. Hiljemark,,,,none
+M. Rohdén,1.5,Marcus Rohdén,2017-12-28,short
+D. De Rossi,3.5,Daniele De Rossi,2017-12-28,short
+M. Pjanić,50.0,Miralem Pjanić,2017-12-28,short
+F. Viviani,3.5,Federico Viviani,2017-12-28,short
+E. Giaccherini,1.0,Emanuele Giaccherini,2017-12-28,short
+S. Padoin,0.8,Simone Padoin,2017-12-28,short
+Kwon Chang-Hoon,3.0,Chang-hoon Kwon,2018-01-23,fuzzy_100
+Thiago Mendes,9.0,Thiago Mendes,2018-01-23,exact
+A. Dioussé,5.0,Assane Dioussé,2018-01-23,short
+A. Thomasson,4.0,Adrien Thomasson,2018-01-23,short
+J. Lea Siliki,1.5,James Léa Siliki,2018-01-23,short
+Somália,2.0,Somália,2018-01-23,exact
+M. Sanson,18.0,Morgan Sanson,2018-01-23,short
+K. Azamoum,1.5,Karim Azamoum,2018-01-23,short
+R. Krhin,1.5,Rene Krhin,2018-01-23,short
+I. Sangaré,0.4,Ibrahim Sangaré,2018-05-15,short
+A. Rabiot,45.0,Adrien Rabiot,2018-01-23,short
+T. Lemar,65.0,Thomas Lemar,2018-01-23,short
+Fabinho,40.0,Fabinho,2018-01-23,exact
+F. Tait,0.7,Flavien Tait,2018-01-23,short
+D. Liénard,2.0,Dimitri Liénard,2018-01-23,short
+N. Benezet,2.0,Nicolas Benezet,2018-01-23,short
+S. Sessègnon,1.0,Stéphane Sessègnon,2018-01-23,short
+Luiz Gustavo,15.0,Luiz Gustavo,2018-01-23,exact
+João Moutinho,10.0,João Moutinho,2018-01-23,exact
+G. Poblete,,,,none
+Andrei Girotto,2.0,Andrei Girotto,2018-01-23,exact
+J. Draxler,40.0,Julian Draxler,2018-01-23,short
+Y. Aït Bennasser,5.0,Youssef Aït Bennasser,2018-01-23,short
+B. Zungu,3.5,Bongani Zungu,2018-01-23,short
+Otávio,6.5,Otávio,2018-01-23,exact
+M. Coco,3.0,Marcus Coco,2018-01-23,short
+J. Repas,,,,none
+L. Phiri,1.5,Lebogang Phiri,2018-01-23,short
+L. Tousart,25.0,Lucas Tousart,2018-01-23,short
+Rony Lopes,12.0,Rony Lopes,2018-01-23,exact
+J. Iloki,1.25,Jules Iloki,2018-01-23,short
+A. Touré,8.0,Almamy Touré,2018-01-23,short
+S. Khaoui,5.0,Saîf-Eddine Khaoui,2018-01-23,short
+C. Grenier,2.0,Clément Grenier,2018-01-23,short
+T. Motta,1.0,Thiago Motta,2018-01-23,short
+J. Pastore,18.0,Javier Pastore,2018-01-23,short
+S. Darbion,0.5,Stéphane Darbion,2018-01-23,short
+J. Seri,,,,none
+S. Prcić,,,,none
+M. Verratti,70.0,Marco Verratti,2018-01-23,short
+T. Monconduit,3.0,Thomas Monconduit,2018-01-23,short
+G. Mandjeck,1.0,Georges Mandjeck,2018-01-23,short
+S. Meïté,,,,none
+L. Blas,5.0,Ludovic Blas,2018-01-23,short
+V. Bessat,0.75,Vincent Bessat,2018-01-23,short
+B. Pelé,1.0,Bryan Pelé,2018-01-23,short
+A. Fulgini,3.5,Angelo Fulgini,2018-01-23,short
+J. Plašil,0.75,Jaroslav Plasil,2018-01-23,short
+P. Capelle,1.0,Pierrick Capelle,2018-01-23,short
+J. Féret,0.5,Julien Féret,2018-01-23,short
+Y. M'Vila,7.0,Yann M'Vila,2018-01-23,short
+V. Pajot,2.5,Vincent Pajot,2018-01-23,short
+O. Selnæs,3.0,Ole Selnæs,2018-01-23,short
+D. Payet,22.0,Dimitri Payet,2018-01-23,short
+L. Lerager,4.5,Lukas Lerager,2018-01-23,short
+P. Lees Melou,5.0,Pierre Lees-Melou,2018-01-23,short
+S. Peeters,,,,none
+B. Sarr,3.5,Bouna Sarr,2018-01-23,short
+E. Skhiri,8.0,Ellyes Skhiri,2018-01-23,short
+Y. Cahuzac,0.75,Yannick Cahuzac,2018-01-23,short
+W. Khazri,10.0,Wahbi Khazri,2018-01-23,short
+É. Didot,0.5,Étienne Didot,2018-01-23,short
+F. Tabanou,,,,none
+B. André,6.0,Benjamin André,2018-01-23,short
+P. Lasne,2.5,Paul Lasne,2018-01-23,short
+F. Sammaritano,1.0,Frédéric Sammaritano,2018-01-23,short
+Á. di María,40.0,Ángel Di María,2018-01-23,short
+B. Nivet,0.25,Benjamin Nivet,2018-01-23,short
+M. Diallo,0.2,Moussa Diallo,2018-05-15,short
+G. Imbula,8.0,Giannelli Imbula,2018-01-23,short
+N. Mendy,8.0,Nampalys Mendy,2018-01-23,short
+R. Cabella,5.0,Rémy Cabella,2018-01-23,short
+A. Blin,8.0,Alexis Blin,2018-01-23,short
+Xeka,5.5,Xeka,2018-01-23,exact
+J. Martin,3.0,Jonas Martin,2018-01-23,short
+N. Fekir,50.0,Nabil Fekir,2018-01-23,short
+R. Ghezzal,8.0,Rachid Ghezzal,2018-01-23,short
+N. Sliti,,,,none
+J. Toulalan,0.0,Jérémy Toulalan,2018-01-17,short
+T. Mangani,3.5,Thomas Mangani,2018-01-23,short
+M. Lopez,8.0,Maxime Lopez,2018-01-23,short
+R. Walter,3.0,Rémi Walter,2018-01-23,short
+A. Tameze,2.0,Adrien Tamèze,2018-01-23,short
+T. Dingomé,1.0,Tristan Dingomé,2018-01-23,short
+I. Amadou,2.5,Ibrahim Amadou,2018-01-23,short
+I. Sarr,14.0,Ismaïla Sarr,2018-01-23,short
+B. Bourigeaud,8.0,Benjamin Bourigeaud,2018-01-23,short
+W. Cyprien,10.0,Wylan Cyprien,2018-01-23,short
+Y. Tielemans,25.0,Youri Tielemans,2018-01-23,short
+J. Durmaz,2.0,Jimmy Durmaz,2018-01-23,short
+A. Gonçalves,0.5,Anthony Gonçalves,2018-01-23,short
+R. Amalfitano,1.0,Romain Amalfitano,2018-01-23,short
+L. Deaux,2.5,Lucas Deaux,2018-01-23,short
+Thiago Maia,9.0,Thiago Maia,2018-01-23,exact
+J. Marié,1.25,Jordan Marié,2018-01-23,short
+F. Mollet,1.25,Florent Mollet,2018-01-23,short
+H. Aouar,25.0,Houssem Aouar,2018-01-23,short
+A. Hunou,3.5,Adrien Hunou,2018-01-23,short
+B. Corgnet,1.0,Benjamin Corgnet,2018-01-23,short
+G. Kakuta,2.0,Gaël Kakuta,2018-01-23,short
+Y. Sankharé,5.0,Younousse Sankharé,2018-01-23,short
+T. Ndombèlé,15.0,Tanguy Ndombélé,2018-01-23,short
+M. Abeid,,,,none
+A. Zambo Anguissa,,,,none
+H. Manzala,1.5,Harrison Manzala,2018-01-23,short
+J. Aholou,3.0,Jean-Eudes Aholou,2018-01-23,short
+R. Cohade,,,,none
+Y. Bissouma,4.0,Yves Bissouma,2018-01-23,short
+G. Lo Celso,20.0,Giovani Lo Celso,2018-01-23,short
+M. Dossevi,3.5,Mathieu Dossevi,2018-01-23,short
+J. Sambia,1.25,Junior Sambia,2018-01-23,short
+V. Rongier,7.5,Valentin Rongier,2018-01-23,short
+B. Santamaria,3.0,Baptiste Santamaria,2018-01-23,short
+P. Oniangué,1.5,Prince Oniangué,2018-01-23,short
+Y. Salibur,5.0,Yannis Salibur,2018-01-23,short
